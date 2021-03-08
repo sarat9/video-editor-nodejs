@@ -15,7 +15,9 @@ node app.js
 - In your app.js, 
 
 > Edit the trimVideo call function as follows 
-> // start_time, end time, filename, extention trimVideo('00:04:00','00:07:00','input','webm');
+> // start_time, end time, filename, extention 
+> 
+> trimVideo('00:04:00','00:07:00','input','webm');
 > 
 > Pass the parameters  
 > start_time = hh:mm:ss,  
